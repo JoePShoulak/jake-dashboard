@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/JoePShoulak/jake-dashboard/issues"
   },
-  "homepage": "https://github.com/JoePShoulak/jake-dashboard#readme",
-  "dependencies": {
-    "inquirer": "^9.1.3"
-  }
+  "homepage": "https://github.com/JoePShoulak/jake-dashboard#readme"
 }
