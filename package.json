@@ -6,7 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoePShoulak/jake-dashboard.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoePShoulak/jake-dashboard/issues"
+  },
+  "homepage": "https://github.com/JoePShoulak/jake-dashboard#readme",
+  "dependencies": {
+    "inquirer": "^9.1.3"
+  }
 }
