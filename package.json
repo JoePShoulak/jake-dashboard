@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoePShoulak/jake-dashboard/issues"
   },
-  "homepage": "https://github.com/JoePShoulak/jake-dashboard#readme"
+  "homepage": "https://github.com/JoePShoulak/jake-dashboard#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
